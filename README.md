@@ -30,7 +30,8 @@ Analyzing iris Dataset using Machine Learning
   - Step 1: Importing Data using Copilot
     - Read data into a pandas dataframe.
   - Step 2: Data Exploration using Copilot
-    - Understand the structure of the dataframe by checking first few rows of the dataframe, getting a summary of the dataframe, checking the missing values and gathering statistics like min, max, mean etc
+    - Understand the structure of the dataframe by checking first few rows of the dataframe, getting a summary of the dataframe, checking the missing values and gathering statistics like min, max, mean etc.
+    - Visualize the data through KDE plots, Histograms.
   - Step 3: Machine Learning Model Training and Testing using Copilot
     - Define features (sepal length, sepal width, petal length and petal width) and target (species).
     - Split the data into training data and test data.
