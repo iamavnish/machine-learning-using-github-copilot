@@ -1,4 +1,4 @@
-# Training a machine learning model using Github Copilot
+# Training a Machine Learning Model using Github Copilot
 
 ## Overview 
 
